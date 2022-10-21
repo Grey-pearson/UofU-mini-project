@@ -1,0 +1,13 @@
+3 colors
+contact form
+img with caption
+img has alt
+polised & accessible 
+header & footer
+header is fixed to the top of the screen
+navigation (display inline) and a contact link
+contact link jumps you to contact form
+contact form has input for name and email
+contact form send button
+font / font family for all text
+at least two heading tags h1 thru h6
